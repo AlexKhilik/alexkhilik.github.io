@@ -30,7 +30,7 @@ Only aggregated, anonymized data is periodically transmitted to external service
 
 Please note that the Application utilizes third-party services that have their own Privacy Policy about handling data. Below are the links to the Privacy Policy of the third-party service providers used by the Application:
 
-*   [Apple](https://www.apple.com/legal/privacy/)
+*   [Apple](https://www.apple.com/legal/privacy/en-ww/)
 *   [Google Play Services](https://www.google.com/policies/privacy/)
 *   [Unity](https://unity3d.com/legal/privacy-policy)
 *   [ironSource Mobile Ltd](https://developers.is.com/ironsource-mobile/air/ironsource-mobile-privacy-policy/)

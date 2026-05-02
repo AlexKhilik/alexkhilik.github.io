@@ -30,6 +30,7 @@ Only aggregated, anonymized data is periodically transmitted to external service
 
 Please note that the Application utilizes third-party services that have their own Privacy Policy about handling data. Below are the links to the Privacy Policy of the third-party service providers used by the Application:
 
+*   [Apple](https://www.apple.com/legal/privacy/)
 *   [Google Play Services](https://www.google.com/policies/privacy/)
 *   [Unity](https://unity3d.com/legal/privacy-policy)
 *   [ironSource Mobile Ltd](https://developers.is.com/ironsource-mobile/air/ironsource-mobile-privacy-policy/)
@@ -39,6 +40,10 @@ The Service Provider may disclose User Provided and Automatically Collected Info
 *   as required by law, such as to comply with a subpoena, or similar legal process;
 *   when they believe in good faith that disclosure is necessary to protect their rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
 *   with their trusted services providers who work on their behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.
+
+**In-App Purchases / Payments**
+
+Our App may offer in-app purchases. We do not process payments directly or store your financial information (such as credit card numbers). All payment transactions are handled entirely by the respective app store provider (Apple via the App Store for iOS devices, or Google via the Google Play Store for Android devices). Their privacy policies govern the processing of your payment data.
 
 **What are my opt-out rights?**
 

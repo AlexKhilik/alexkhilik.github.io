@@ -4,7 +4,7 @@ layout: null
 
 **Privacy Policy**
 
-This privacy policy is applicable to the Monsters In The Dark app (hereinafter referred to as "Application") for mobile devices, which was developed by Oleksandr Khylyk (hereinafter referred to as "Service Provider") as a an Ad Supported service. This service is provided "AS IS".
+This privacy policy is applicable to the Monsters Hate Light app (hereinafter referred to as "Application") for mobile devices, which was developed by Oleksandr Khylyk (hereinafter referred to as "Service Provider") as a an Ad Supported service. This service is provided "AS IS".
 
 **What information does the Application obtain and how is it used?**
 

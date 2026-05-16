@@ -141,3 +141,4 @@ google.com, pub-1682595508078257, RESELLER, f08c47fec0942fa0
 google.com, pub-2923085774557613, RESELLER, f08c47fec0942fa0
 google.com, pub-3990748024667386, RESELLER, f08c47fec0942fa0
 ignitemediatech.com, pub_11115, RESELLER
+google.com, pub-1843666005860146, DIRECT, f08c47fec0942fa0
